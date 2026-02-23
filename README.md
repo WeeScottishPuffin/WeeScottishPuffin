@@ -8,3 +8,12 @@ Currently learning C++ and working towards CPE and CPA certifications.
 ## Certificates
 - [PCEP™ – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=DDHO.zTEo.4gfX)
 - [PCAP™ – Certified Associate Python Programmer](https://verify.openedg.org/?id=xrxz.Trkq.anSO)
+
+## Notable Projects
+- [mastermind-cpp](https://github.com/WeeScottishPuffin/mastermind-cpp) A C++ implementation of the guessing game MasterMind. See also my [Java](https://github.com/WeeScottishPuffin/Mastermind) and [C#](https://github.com/WeeScottishPuffin/MasterMind-CS) versions (no longer updated).
+- [My portfolio](https://github.com/WeeScottishPuffin/StaticPortfolio)
+
+## Next projects
+- 2048 and Minesweeper in C++
+- Remaking my portfolio (old internet style??)
+
