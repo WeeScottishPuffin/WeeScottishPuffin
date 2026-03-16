@@ -11,7 +11,7 @@ Currently learning C++ and working towards CPE and CPA certifications.
 
 ## Notable Projects
 - [mastermind-cpp](https://github.com/WeeScottishPuffin/mastermind-cpp) A C++ implementation of the guessing game MasterMind. See also my [Java](https://github.com/WeeScottishPuffin/Mastermind) and [C#](https://github.com/WeeScottishPuffin/MasterMind-CS) versions (no longer updated).
-- [My portfolio](https://github.com/WeeScottishPuffin/StaticPortfolio)
+- [My portfolio](https://github.com/WeeScottishPuffin/portfolio-new) (WIP!)
 
 ## Next projects
 - 2048 and Minesweeper in C++
